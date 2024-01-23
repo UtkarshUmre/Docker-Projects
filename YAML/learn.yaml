@@ -1,0 +1,11 @@
+# yaml ain't markup language learning
+
+# yaml is a key value pair
+
+# In this file yaml code is written for a website which has course content
+
+course_name: "this is a devops and opensource course" # course name is a string so the best practice is to write em in double quotes
+version: 1.5 # integers and floating point numbers can be written in this way
+price: 199 # this is another integer for price of course and is written in key value pair
+is_public: true # boolean values are written like this in yaml ain't markup language
+
